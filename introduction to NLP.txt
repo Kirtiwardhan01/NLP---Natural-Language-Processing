@@ -1,0 +1,108 @@
+
+   	>>>>>NLP - Natural Language Processing
+  
+	 1. Natural language processing (NLP) is a field of computer science that studies how computers and humans interact
+ 
+ 	2.Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken. 
+   	NLP is a component of artificial intelligence
+
+
+ 	>>>>>How natural language processing works: techniques and tools              
+	 	Syntax and semantic analysis are two main techniques used with natural language processing. 
+
+ 	Syntax is the arrangement of words in a sentence to make grammatical sense. 
+
+ 	NLP uses syntax to assess meaning from a language based on grammatical rules. 
+
+ 	Syntax techniques used include parsing (grammatical analysis for a sentence), 
+
+ 	word segmentation (which divides a large piece of text to units), 
+
+ 	sentence breaking (which places sentence boundaries in large texts), 
+
+ 	morphological segmentation (which divides words into groups) and 
+
+ 	stemming (which divides words with inflection in them to root forms)
+
+
+		Semantics involves the use and meaning behind words. 
+
+	NLP applies algorithms to understand the meaning and structure of sentences. 
+
+	Techniques that NLP uses with semantics include 
+
+	word sense disambiguation (which derives meaning of a word based on context), 
+
+	named entity recognition (which determines words that can be categorized into groups), 
+
+	and natural language generation (which will use a database to determine semantics behind words)
+
+
+	>>>>>Tools used:
+
+	Three tools used commonly for NLP include NLTK, Gensim, and Intel NLP Architect. 
+
+	NTLK, Natural Language Toolkit, is an open source python modules with data sets and tutorials. 
+
+	Gensim is a Python library for topic modeling and document indexing. 
+
+	Intel NLP Architect is also another Python library for deep learning topologies and techniques
+
+	
+	>>>>>Use of NLP:
+	
+	NLP can be used to interpret free text and make it analyzable. 
+
+	There is a tremendous amount of information stored in free text files, like patients' medical records, for example. 
+
+	Before deep learning-based NLP models, this information was inaccessible to computer-assisted analysis and 
+
+	could not be analyzed in any systematic way. 
+
+	But NLP allows analysts to sift through massive troves of free text to find relevant information in the files.
+
+	
+	Sentiment analysis is another primary use case for NLP. 
+
+	Using sentiment analysis, data scientists can assess comments on social media to see how their 
+
+	business's brand is performing, for example, or review notes from customer service teams 
+
+ 	to identify areas where people want the business to perform better.
+
+	Google and other search engines base their machine translation technology on NLP deep learning models. 
+
+	This allows algorithms to read text on a webpage, interpret its meaning and translate it to another language
+
+
+	>>>>Benefits of NLP
+	
+	NLP hosts benefits such as:
+
+	1.Improved accuracy and efficiency of documentation.
+	
+	2.The ability to automatically make a readable summary text.
+
+	3.Useful for personal assistants such as Alexa.
+
+	4.Allows an organization to use chatbots for customer support.
+
+	5.Easier to perform sentiment analysis
+
+
+	>>>>Challenges associated with NLP
+	NLP has not yet been wholly perfected. For example, semantic analysis can still be a challenge for NLP. 
+
+	Other difficulties include the fact that abstract use of language is typically tricky for programs to understand. 
+
+	For instance, NLP does not pick up sarcasm easily. 
+
+	These topics usually require the understanding of the words being used and 
+
+	the context in which the way they are being used. 
+
+	As another example, a sentence can change meaning depending on which word the speaker puts stress on. 
+
+	NLP is also challenged by the fact that language, and the way people use it, is continually changing
+
+
