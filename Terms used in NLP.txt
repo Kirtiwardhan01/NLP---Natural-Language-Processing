@@ -1,0 +1,28 @@
+
+	Terms used in NLP:
+
+	1. Word Boundaries
+
+	2. Tokenization (split the info into phrases, words, idioms etx)
+
+	3. Stemming (which divides words with inflection in them to root forms)
+                    (mapping to their root words) example: laughing to laugh, running to run, cars to car
+
+	4. Tf - idf (TF: Term Frequency)
+  		log(no, of total documents/no. of documents in whixh that word is present)
+
+          idf (inverse document frequency), Corpus (collection of documents)
+
+	5. Disambiguation: (Context VS Content) for example: match, watch, play, mercury, light
+
+	6. Topic Model: Discover the hidden or abstract topics
+
+	7. Stopwords: Words that add no meaning to and are usually comman words such as "the", "as", "are"
+
+	8. SPeech Tagging: Tells if the word is Noun, Pronoun, Verb, Adverb
+
+	9. Name Entity Regonization: Tells if the name is a person, place, date. time
+
+
+	>>>>>> Packages used for NLP are "tm", "wordcloud", "stringr"
+ 
