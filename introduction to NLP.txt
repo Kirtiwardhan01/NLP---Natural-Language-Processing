@@ -106,3 +106,4 @@
 	NLP is also challenged by the fact that language, and the way people use it, is continually changing
 
 
+Source:- https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP
